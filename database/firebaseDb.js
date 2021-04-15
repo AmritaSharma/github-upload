@@ -2,13 +2,13 @@ import * as firebase from 'firebase';
 import firestore from 'firebase/firestore'
 
 const firebaseConfig = {
-    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    authDomain: "xxxxxxxxx-00000.firebaseapp.com",
-    databaseURL: "https://xxxxxxxxx-00000.firebaseio.com",
-    projectId: "xxxxxxxxx-00000",
-    storageBucket: "xxxxxxxxx-00000.appspot.com",
-    messagingSenderId: "000000000000000",
-    appId: "1:000000000000000:web:000000000000000"
+  apiKey: "AIzaSyBCvLXPD_ww7rWy0sPlXKtIW5_cHl6Af-Y",
+   authDomain: "reactnativefirebase-7013c.firebaseapp.com",
+   projectId: "reactnativefirebase-7013c",
+   storageBucket: "reactnativefirebase-7013c.appspot.com",
+   messagingSenderId: "307509902521",
+   appId: "1:307509902521:web:d88702d1396b3f90bbef68"
+
 };
 
 firebase.initializeApp(firebaseConfig);
